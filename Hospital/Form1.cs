@@ -22,7 +22,7 @@ namespace Hospital
             String username = txtUserName.Text;
             String pass = txtPassword.Text;
 
-            if(username == "urmat" && pass == "1234")
+            if(username == "patient" && pass == "1234")
             {
                // MessageBox.Show("You have to entered right username or password");
 
