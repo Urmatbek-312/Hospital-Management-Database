@@ -7,12 +7,6 @@
 <br>
 <br/>
 
-![First part](https://user-images.githubusercontent.com/60467856/171227451-2d82c5b2-43c9-41ac-add5-168c836da4b2.gif)
-
-
-<br>
-<br/>
-
 ![Part2](https://user-images.githubusercontent.com/65105671/171193028-6c7f605b-c531-45f2-b3cf-7114b1ec37cf.gif)
 
 <br>
