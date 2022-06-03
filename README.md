@@ -25,7 +25,3 @@
 <br>
 <br/>
 
-Video-Presentation:
-<br>
-<br/>
-https://drive.google.com/file/d/1f_ndCFFmQ69peGSoK4dc5iGzE5AG8g5Q/view?usp=sharing
