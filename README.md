@@ -7,7 +7,6 @@
 <br>
 <br/>
 
-![Part2](https://user-images.githubusercontent.com/65105671/171193028-6c7f605b-c531-45f2-b3cf-7114b1ec37cf.gif)
 
 <br>
 <br/>
